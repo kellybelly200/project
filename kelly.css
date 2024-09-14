@@ -1,0 +1,20 @@
+.flex-container {
+    align-items: center;
+    flex-direction: row;
+    margin: 10px;
+    display: flex;
+    flex-wrap: inherit;
+}
+body {
+    flex-wrap: inherit;
+    flex-shrink: inherit;
+    flex-flow:inherit;
+    margin: 40px;
+    padding: 10px;
+    background-image: url('img/background.jpg');
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
